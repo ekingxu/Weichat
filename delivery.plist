@@ -11,7 +11,7 @@
                         <key>kind</key> 
                         <string>software-package</string> 
                         <key>url</key> 
-                        <string>http://b-box.cc/Public/app/delivery.v.1.1.6.product-resigned.ipa</string> 
+                        <string>https://b-box.cc/Public/app/delivery.v.1.1.6.product-resigned.ipa</string> 
                     </dict> 
                     <dict> 
                         <key>kind</key> 
@@ -19,7 +19,7 @@
                         <key>needs-shine</key> 
                         <false/> 
                         <key>url</key> 
-                        <string>http://b-box.cc/Public/app/logo_512x512.png</string> 
+                        <string>https://b-box.cc/Public/app/logo_512x512.png</string> 
                     </dict> 
                     <dict> 
                         <key>kind</key> 
@@ -27,7 +27,7 @@
                         <key>needs-shine</key> 
                         <false/> 
                         <key>url</key> 
-                        <string>http://b-box.cc/Public/app/logo_57x57.png</string> 
+                        <string>https://b-box.cc/Public/app/logo_57x57.png</string> 
                     </dict> 
                 </array> 
                 <key>metadata</key> 
